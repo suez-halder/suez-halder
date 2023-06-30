@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi, I'm Suez! 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Anazo<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Typscript<br>💬 Ask me about<br>⚡ Fun fact 
+![About Me](https://i.ibb.co/K9YG9b7/about-me.png)
 
 
 ## 🌐 Socials:
